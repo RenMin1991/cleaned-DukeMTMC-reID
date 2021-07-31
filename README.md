@@ -13,6 +13,8 @@ Cleaned test data list of DukeMTMC-reID released with our paper accepted by ICCV
 
 ## Cleaned database
 
+The data of DukeMTMC-reID can be found [here](http://vision.cs.duke.edu/DukeMTMC/).
+
 The query list of cleaned test database is `query_cleaned.txt`
 
 The gallery list of cleaned test database is `gallery_cleaned.txt`
@@ -21,8 +23,9 @@ The gallery list of cleaned test database is `gallery_cleaned.txt`
 If you find our cleaned database useful in your research, please consider to cite:
 
     @inproceedings{ren2021learning,
-      title={Learning Instance-level Spatial-Temporal Patterns for Person Re-identification},
       author={Ren, Min and He, Lingxiao and Liao, Xingyu and Liu, Wu and Wang, Yunlong and Tan, Tieniu},
-      booktitle={ICCV},
+      title={Learning Instance-level Spatial-Temporal Patterns for Person Re-identification},
+      booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
       year={2021}
     }
+    

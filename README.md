@@ -3,6 +3,6 @@ Cleaned test data list of DukeMTMC-reID released with our paper accepted by ICCV
 
 Two kinds of samples are eliminated from the test set of DukeMTMC-reID:
 
-1. The samples with wrong labels, sunch as:[arch](wrong_labels.png)
+1. The samples with wrong labels, sunch as: ![arch](wrong_labels.png)
 
-2. The samples in which the pedestrian is completely occluded, such as: [arch](occlusion.png)
+2. The samples in which the pedestrian is completely occluded, such as: ![arch](occlusion.png)

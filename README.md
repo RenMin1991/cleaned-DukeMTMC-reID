@@ -28,7 +28,7 @@ The gallery list of cleaned test database is `gallery_cleaned.txt`
 
 #### There two elements in each line of the cleaned lists: file name and label.
 
-![arch](txt.png)
+![arch](txt.PNG)
 
 ### Dataset Licence
 

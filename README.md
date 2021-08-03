@@ -1,6 +1,6 @@
 # Cleaned DukeMTMC-reID
 
-Cleaned data list of DukeMTMC-reID released with our paper accepted by ICCV 2021: Learning Instance-level Spatial-Temporal Patterns for Person Re-identification
+Cleaned data list of DukeMTMC-reID released with our paper accepted by ICCV 2021: [Learning Instance-level Spatial-Temporal Patterns for Person Re-identification](https://arxiv.org/abs/2108.00171)
 
 ## Two kinds of samples are taken into consideration:
 

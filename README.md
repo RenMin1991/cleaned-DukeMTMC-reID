@@ -26,7 +26,7 @@ The query list of cleaned test database is `query_cleaned.txt`
 
 The gallery list of cleaned test database is `gallery_cleaned.txt`
 
-#### There two elements in each line of the cleaned lists: file name and label.
+#### There are two elements in each line of the cleaned lists: file name and label.
 
 ![arch](txt.PNG)
 
